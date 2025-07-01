@@ -1,6 +1,6 @@
 # [ICCV25] Autoregressive Denoising Score Matching is a Good Video Anomaly Detector
 
-**[[Paper]](https://arxiv.org/)**
+**[[Paper]](https://arxiv.org/pdf/2506.23282)**
 
 This repository is the official release code for our ICCV25 paper ADSM.
 
